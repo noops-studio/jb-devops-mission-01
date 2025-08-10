@@ -6,7 +6,7 @@ echo "=========================================="
 # 1. Directory and File Management:
 echo "1: directory and file management"
 mkdir -p ~/exam/files/test
-echo "some random thing i always wanted to say " > ~/exam/files/test/notes.txt
+echo "JB mid exam notes for Linux" > ~/exam/files/test/notes.txt
 echo "creeted directory structure and notes.txt"
 
 # 2. Using Basic FS Commands:
